@@ -82,7 +82,7 @@ while True:
     print(f"Fahrenheit = {fahrenheit:.2f}°F")
     print(f"kelvin     = {kelvin:.2f}K")
     print(f"Reamur     = {reamur:.2f}°R")
-    print(f"Rankine    = {rankine:.2f}°Ra")
+    print(f"Rankine    = {rankine:.2f}°Ra") 
     print("")
     sleep(5)
     
