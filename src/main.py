@@ -1,9 +1,12 @@
-# REFERENSI: https://www.cnnindonesia.com/edukasi/20231018163336-569-1012927/mengenal-skala-dan-konversi-suhu-dilengkapi-cara-menghitungnya
-# Menggunakan Paradigma ✨Procedural✨
+'''
+1. SUMBER: https://www.cnnindonesia.com/edukasi/20231018163336-569-1012927/mengenal-skala-dan-konversi-suhu-dilengkapi-cara-menghitungnya
+2. Menggunakan Paradigma Prosedural✨
+3. Didukung: ChatGPT🤖
+'''
 
 import os
 from time import sleep
-from konversi import Celcius,Fahrenheit,Kelvin,Reamur,Rankine
+from conversions import Celcius, Fahrenheit, Kelvin, Reamur, Rankine
 
 os.system('cls')
 
